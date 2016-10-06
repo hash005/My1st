@@ -1,0 +1,7 @@
+c:\users\1423005\documents\visual studio 2010\Projects\My1stCs\My1stCs\bin\Debug\My1stCs.exe
+c:\users\1423005\documents\visual studio 2010\Projects\My1stCs\My1stCs\bin\Debug\My1stCs.pdb
+c:\users\1423005\documents\visual studio 2010\Projects\My1stCs\My1stCs\obj\x86\Debug\My1stCs.Form1.resources
+c:\users\1423005\documents\visual studio 2010\Projects\My1stCs\My1stCs\obj\x86\Debug\My1stCs.Properties.Resources.resources
+c:\users\1423005\documents\visual studio 2010\Projects\My1stCs\My1stCs\obj\x86\Debug\My1stCs.csproj.GenerateResource.Cache
+c:\users\1423005\documents\visual studio 2010\Projects\My1stCs\My1stCs\obj\x86\Debug\My1stCs.exe
+c:\users\1423005\documents\visual studio 2010\Projects\My1stCs\My1stCs\obj\x86\Debug\My1stCs.pdb

@@ -1,0 +1,7 @@
+c:\users\1423005\documents\visual studio 2010\Projects\mycounter\mycounter\bin\Debug\mycounter.exe
+c:\users\1423005\documents\visual studio 2010\Projects\mycounter\mycounter\bin\Debug\mycounter.pdb
+c:\users\1423005\documents\visual studio 2010\Projects\mycounter\mycounter\obj\x86\Debug\mycounter.Form1.resources
+c:\users\1423005\documents\visual studio 2010\Projects\mycounter\mycounter\obj\x86\Debug\mycounter.Properties.Resources.resources
+c:\users\1423005\documents\visual studio 2010\Projects\mycounter\mycounter\obj\x86\Debug\mycounter.csproj.GenerateResource.Cache
+c:\users\1423005\documents\visual studio 2010\Projects\mycounter\mycounter\obj\x86\Debug\mycounter.exe
+c:\users\1423005\documents\visual studio 2010\Projects\mycounter\mycounter\obj\x86\Debug\mycounter.pdb
